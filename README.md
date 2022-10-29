@@ -1,5 +1,4 @@
 # Pika-Project
----
 
 ## 프로젝트 소개
 
@@ -27,41 +26,41 @@
   1) 유스케이스 다이어그램
   2) 요구사항 정의서
   3) 테이블 명세서
-
+---
 ## 1. 사용 기술
 
 1. 언어 : Java, SQL
 2. Tool : eclipse, oracle(developer)
 3. 디자인 패턴 : MVC 패턴
-
+---
 ## 2. ER Diagram
 ![image](https://user-images.githubusercontent.com/89984853/198168171-b97a8eba-d5d9-425f-9793-fe0d947ded3a.png)
-
+---
 ## 3. 흐름도
 ![피카츄 흐름도](https://user-images.githubusercontent.com/89984853/198162917-6048c184-87c4-4f73-a043-7d42bed83044.png)
-
-## 4. 프로젝트 일정
+---
+## 4. 프로젝트 일정   
 ![image](https://user-images.githubusercontent.com/89984853/198159660-eb619671-2ebc-46ac-8793-08e976351eb4.png)
-
+---
 ## 5. 구현 화면
 - 메인 화면   
 ![image](https://user-images.githubusercontent.com/89984853/198171786-f0b34394-9a53-4f71-b46e-511a54afd276.png)
 
 - 게임 진행
-  - 알맞은 선택지를 선택했을 때 / 선택하지 않았을 때   
+  - 알맞은 선택지를 선택했을 때 / 선택하지 않았을 때      
 ![image](https://user-images.githubusercontent.com/89984853/198171832-a33e075a-3ed9-4605-b6df-e2626adf969c.png)
 
-- 레벨업   
+- 레벨업    
 ![image](https://user-images.githubusercontent.com/89984853/198172054-8dc050d7-de01-4ad1-b746-c1fbd7a2952f.png)
 
-- 에너지가 소진되어 피카츄 데이터 삭제   
+- 에너지가 소진되어 피카츄 데이터 삭제    
 ![image](https://user-images.githubusercontent.com/89984853/198172174-96172ad8-2e8e-40af-bca3-0eed87a22a24.png)
-
+---
 
 ## 6. My Role
 
 - 
-
+---
 ## 7. 팀원 소개
 
 |  이름  |                Github 주소                 |
@@ -71,7 +70,7 @@
 | 황윤정 |  [Github](https://github.com/jjenniyun)  |
 | 임수민 |  [Github](https://github.com/wjdrmstnals)  |
 | 박선우 |  [Github](https://github.com/Jjomyi) |
-
+---
 ## 8. 프로젝트를 진행하며 학습한 것과 느낀 점
 
 - 학습한 기술
