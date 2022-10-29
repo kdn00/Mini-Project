@@ -58,22 +58,24 @@
 ![image](https://user-images.githubusercontent.com/89984853/198172174-96172ad8-2e8e-40af-bca3-0eed87a22a24.png)
 
 
-## 6. 팀원 역할 및 소개
+## 6. My Role
 
-|  이름  |  역할  |                 Github 주소                 |
-| :----: | :----: | :-----------------------------------------: |
-| 김도연[팀장] |  자료 흐름도, 기능 분석 및 명세서, 로그인, 회원가입, 게임 로직 및 구현, 최종 정리 |     [Github](https://github.com/kdn00)     |
-| 김기범 |  로그인, 자료 흐름도, 게임 구현 |   [Github](https://github.com/colaage23)    |
-| 황윤정 |  로그인, 게임 구현  |   [Github](https://github.com/jjenniyun)   |
-| 임수민 |  회원가입, 게임 구현  |    [Github](https://github.com/wjdrmstnals)    |
-| 박선우 |  회원가입  | - [Github](https://github.com/Jjomyi) |
+- 
 
-## 7. 프로젝트를 진행하며 느낀 점과 학습한 것
+## 7. 팀원 소개
 
-|  이름  |  학습한 기술  | 느낀점 |
-| :----: | :----: | :------------------: |
-| 김도연[팀장] | 팀 프로젝트를 진행할 때의 흐름, MVC패턴과 JDBC 활용, GitHub에 코드를 공유(배포)하는 방법, 협업 및 커뮤니케이션 | 단기 프로젝트를 진행하며 시간 관리와 프로젝트 계획의 중요성을 알 수 있었고 Java에 대한 이해도가 늘어서 만족스럽다. |
-| 김기범 |   |       |
-| 황윤정 |    |      |
-| 임수민 |    |        |
-| 박선우 |  -  | - |
+|  이름  |                Github 주소                 |
+| :----: | :---------------------------------------: |
+| 김도연 |  [Github](https://github.com/kdn00)     |
+| 김기범 |  [Github](https://github.com/colaage23)   |
+| 황윤정 |  [Github](https://github.com/jjenniyun)  |
+| 임수민 |  [Github](https://github.com/wjdrmstnals)  |
+| 박선우 |  [Github](https://github.com/Jjomyi) |
+
+## 8. 프로젝트를 진행하며 학습한 것과 느낀 점
+
+- 학습한 기술
+  - 팀 프로젝트를 진행할 때의 흐름, MVC패턴과 JDBC 활용, GitHub에 코드를 공유(배포)하는 방법, 협업 및 커뮤니케이션
+
+- 느낀 점
+  - 단기 프로젝트를 진행하며 시간 관리와 프로젝트 계획의 중요성을 알 수 있었고 Java에 대한 이해도가 늘어서 만족스럽다.
