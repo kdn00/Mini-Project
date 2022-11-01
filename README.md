@@ -26,22 +26,31 @@
   1) 유스케이스 다이어그램
   2) 요구사항 정의서
   3) 테이블 명세서
+
 ---
+
 ## 1. 사용 기술
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
+
 ## 2. ER Diagram
 ![image](https://user-images.githubusercontent.com/89984853/198168171-b97a8eba-d5d9-425f-9793-fe0d947ded3a.png)
+
 ---
+
 ## 3. 흐름도
 ![피카츄 흐름도](https://user-images.githubusercontent.com/89984853/198162917-6048c184-87c4-4f73-a043-7d42bed83044.png)
+
 ---
+
 ## 4. 프로젝트 일정   
 ![image](https://user-images.githubusercontent.com/89984853/198159660-eb619671-2ebc-46ac-8793-08e976351eb4.png)
+
 ---
+
 ## 5. 구현 화면
 - 메인 화면   
 ![image](https://user-images.githubusercontent.com/89984853/198171786-f0b34394-9a53-4f71-b46e-511a54afd276.png)
@@ -55,6 +64,7 @@
 
 - 에너지가 소진되어 피카츄 데이터 삭제    
 ![image](https://user-images.githubusercontent.com/89984853/198172174-96172ad8-2e8e-40af-bca3-0eed87a22a24.png)
+
 ---
 
 ## 6. My Role
@@ -73,6 +83,7 @@
 | 황윤정 |  [Github](https://github.com/jjenniyun)  |
 | 임수민 |  [Github](https://github.com/wjdrmstnals)  |
 | 박선우 |  [Github](https://github.com/Jjomyi) |
+
 ---
 ## 8. 프로젝트를 진행하며 학습한 것과 느낀 점
 
