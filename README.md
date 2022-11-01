@@ -28,10 +28,10 @@
   3) 테이블 명세서
 ---
 ## 1. 사용 기술
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-1. 언어 : Java, SQL
-2. Tool : eclipse, oracle(developer)
-3. 디자인 패턴 : MVC 패턴
 ---
 ## 2. ER Diagram
 ![image](https://user-images.githubusercontent.com/89984853/198168171-b97a8eba-d5d9-425f-9793-fe0d947ded3a.png)
@@ -58,8 +58,11 @@
 ---
 
 ## 6. My Role
+- 프로젝트 총괄
+- 기능 분석 및 문서 작성
+- 게임 로직 및 기능 구현
+- 프로젝트 통합 및 최종 정리
 
-- 
 ---
 ## 7. 팀원 소개
 
@@ -80,4 +83,5 @@
   - 협업 경험 및 커뮤니케이션 능력
 
 - 느낀 점
-  - 단기 프로젝트를 진행하며 시간 관리와 프로젝트 계획의 중요성을 알 수 있었고 Java에 대한 이해도가 늘어서 만족스럽다.
+  - 단기 프로젝트를 진행하며 시간 관리와 프로젝트 계획의 중요성을 알 수 있었다.
+  - Java의 사용법 및 함수들에 대한 이해도를 높힐 수 있는 기회였다.
