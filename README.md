@@ -1,4 +1,8 @@
-# Pika-Project
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=My%20Role_Java,%20DB&fontColor=0055ff&fontSize=50)
+### 1. DB 설계 및 구축
+### 2. Java와 JDBC를 활용해 백엔드 기능 구현  
+
+---
 
 ## 프로젝트 소개
 
@@ -68,10 +72,8 @@
 ---
 
 ## 6. My Role
-- 프로젝트 총괄
-- 기능 분석 및 문서 작성
-- 게임 로직 및 기능 구현
-- 프로젝트 통합 및 최종 정리
+- 프로젝트 총괄 및 통합
+- 기능 분석 및 구현
 
 ---
 ## 7. 팀원 소개
